@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Okay, starting the benchmark program. Bear with me..."|lolcat -a
+sleep 2
+clear
+python "/bin/benchmark.py"
